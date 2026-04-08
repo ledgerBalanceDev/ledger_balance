@@ -20,7 +20,7 @@ const ServiceOverview = () => {
             title: "Core Package",
             subtitle: "Starting at $400/month",
             // description: "Monthly Reconciliation Basic Financial port.",
-            features: ["Monthly Reconciliation", "Basic Financial port"],
+            features: ["Monthly Reconciliation", "Basic Financial reporting"],
             color: "secondary"
         },
         {
