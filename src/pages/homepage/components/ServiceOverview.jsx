@@ -11,7 +11,7 @@ const ServiceOverview = () => {
             title: "Starter Package",
             subtitle: "Starting at $200/month",
             description: "(For freelancers and solo entrepreneurs)",
-            features: ["Basic bookkeeping", "Financial reporting"],
+            features: ["Basic bookkeeping", "Basic Financial reporting"],
             color: "primary"
         },
         {
@@ -36,7 +36,7 @@ const ServiceOverview = () => {
             id: 4,
             icon: "Shield",
             title: "Clean Up Package",
-            subtitle: "Starting at (custom pricing) starting $1,200",
+            subtitle: "Starting at $1,200 (custom pricing)",
             // description: "Comprehensive workforce management that ensures compliance while optimizing employee costs and satisfaction.",
             features: ["Catch-up bookkeeping ", "Trust account correction ", "Organize books"],
             color: "success"
